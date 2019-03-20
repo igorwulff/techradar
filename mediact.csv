@@ -1,2 +1,5 @@
 name,ring,quadrant,isNew,description
-Apache Kafka,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Apache Kafka,trial,tools,FALSE,""
+Apache Kafka,trial,techniques,FALSE,""
+Apache Kafka,trial,workflow,FALSE,""
+Apache Kafka,trial,platforms,FALSE,""
